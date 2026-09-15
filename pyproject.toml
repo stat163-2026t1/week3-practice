@@ -1,0 +1,10 @@
+[project]
+name = "stat163-2026t1-week3-practice"
+version = "0.1.0"
+description = "STAT163 Week 3 practice — from an event log to a description of visitors"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "numpy",
+    "jupyterlab>=4.0",
+]
